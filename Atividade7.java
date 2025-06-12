@@ -1,5 +1,3 @@
-Nova nota 1
-
 import java.util.Scanner;
 // O erro 1 estava na importação através de um java no inicio
 //import java.util.Scanner;

@@ -1,4 +1,5 @@
-javaimport java.util.scanner; // O erro 1 estava na importação do Scanner, que deve ser com 'S' maiúsculo
+javaimport java.util.scanner; 
+// O erro 1 estava na importação através de um java no inicio
 //import java.util.Scanner;
 
 public class Atividade4 {
