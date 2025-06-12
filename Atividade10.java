@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problema{
+public class Atividade10{
 
     public static void main(String[] args){
 
@@ -26,7 +26,7 @@ public class Problema{
 
         double total = unitario * quantidade;
 
-        System.out.printf("Informações do produto: %s", );
+        System.out.printf("Informações do produto: %s" );
 
 
     }
