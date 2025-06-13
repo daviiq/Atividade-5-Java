@@ -28,6 +28,8 @@ public class Atividade2 {
     scanner.close();
     // Exibe uma mensagem de despedida
     System.out.println("Obrigado por participar, " + nome + "! Vou te cadastrar no serasa");
+
+    
   }
 }
 
