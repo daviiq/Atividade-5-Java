@@ -30,3 +30,6 @@ public class Atividade2 {
     System.out.println("Obrigado por participar, " + nome + "! Vou te cadastrar no serasa");
   }
 }
+
+
+
